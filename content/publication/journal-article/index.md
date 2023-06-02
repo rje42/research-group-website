@@ -1,12 +1,8 @@
 ---
-title: 'An example journal article'
+title: 'Model Selection and Local Geometry'
 authors:
   - admin
-  - Robert Ford
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
-date: '2015-09-01T00:00:00Z'
+date: '2020-01-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -19,13 +15,13 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '*Journal of Source Themes, 1*(1)'
-publication_short: ''
+publication: '*Annals of Statistics, 48*(6)'
+publication_short: 'Ann. Statist.'
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: We consider problems in model selection caused by the geometry of models close to their points of intersection.  In some cases---including common classes of causal or graphical models, as well as time series models---distinct models may nevertheless have identical tangent spaces.  This has two immediate consequences: first, in order to obtain constant power to reject one model in favour of another we need local alternative hypotheses that decrease to the null at a slower rate than the usual parametric $n^{-1/2}$ (typically we will require $n^{-1/4}$ or slower); in other words, to distinguish between the models we need large effect sizes or very large sample sizes.  Second, we show that under even weaker conditions on their tangent cones, models in these classes cannot be made simultaneously convex by a reparameterization.  This shows that Bayesian network models, amongst others, cannot be learned directly with a convex method similar to the graphical lasso. However, we are able to use our results to suggest methods for model selection that learn the tangent space directly, rather than the model itself.  In particular, we give a generic algorithm for learning Bayesian network models.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Models do not always intersect in nice ways, and this has both statistical and computational consequences for model selection and inference.
 
 tags:
   - Source Themes
@@ -34,14 +30,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+url_pdf: http://arxiv.org/pdf/1801.08364
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
