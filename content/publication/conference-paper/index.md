@@ -28,16 +28,10 @@ tags:
 featured: true
 
 links:
-  - name: Custom Link
+  - name: Paper
     url: https://proceedings.mlr.press/v124/hu20a.html
 url_pdf: https://arxiv.org/pdf/2007.02310.pdf
 url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
