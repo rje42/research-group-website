@@ -1,3 +1,5 @@
+*.Rproj
+
 # IDEs
 .idea/
 
@@ -5,3 +7,4 @@
 /resources/
 public/
 assets/jsconfig.json
+.Rproj.user
