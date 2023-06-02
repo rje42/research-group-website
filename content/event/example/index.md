@@ -2,7 +2,7 @@
 title: Uncertainty in Artificial Intelligence
 
 event: UAI 2023
-event_url: https://example.org
+event_url: https://auai.org/uai2023
 
 location: Carnegie Mellon University, Pittsburgh, PA, USA
 address:
@@ -13,7 +13,7 @@ address:
   country: United States
 
 summary: 
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+abstract: 'The premier conference on Causality and Uncertainty Quantification in statistics and machine learning is being held in Pittsburgh this year.  [Register here](https://www.auai.org/uai2023/register)!'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
