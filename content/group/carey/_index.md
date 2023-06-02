@@ -4,7 +4,6 @@ interests:
   - AI safety
   - graphical models of agents, influence diagrams
   - structural causal models, latent variable models, causal structure learning
-algebraic statistics
 social:
   - icon: house
     icon_pack: fas
