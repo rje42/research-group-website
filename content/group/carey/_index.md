@@ -1,5 +1,5 @@
-+++
-bio: 'I'm a third year DPhil student. I've long been interested in AI safety problems like specification-gaming, obedience, and user-manipulation. Increasingly, I've noticed that causal models can be useful for modelling these problems, and are interesting in their own right. I collaborate with the [https://causalincentives.com/](Causal Incentives Working Group) and have previously worked at the Future of Humanity Institute, and at DeepMind.'
+---
+bio: "I'm a third year DPhil student. I've long been interested in AI safety problems like specification-gaming, obedience, and user-manipulation. Increasingly, I've noticed that causal models can be useful for modelling these problems, and are interesting in their own right. I collaborate with the [https://causalincentives.com/](Causal Incentives Working Group) and have previously worked at the Future of Humanity Institute, and at DeepMind."
 interests:
   - AI safety
   - graphical models of agents, influence diagrams
@@ -21,5 +21,5 @@ highlight_name: false
 title: Ryan Carey
 first_name: Ryan
 email: ""
-+++
+---
 'Ryan is a final-year DPhil student, interested in AI safety and causal models. In AI safety, this includes the shutdown problem and specification-gaming. In causality, it includes causal models of agents, and marginalization and conditioning in causal models.'
