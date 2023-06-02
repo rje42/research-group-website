@@ -1,9 +1,9 @@
 ---
-title: 'An example conference paper'
+title: 'Faster Algorithms for Markov Equivalence'
 authors:
+  - Zhongyi Hu
   - admin
-  - Robert Ford
-date: '2013-07-01T00:00:00Z'
+date: '2020-08-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -16,13 +16,12 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+publication: In *Proceedings of the 36th Conference on Uncertainty in Artificial Intelligence*
+publication_short: In *UAI-20*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
+abstract: 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: We provide faster algorithms for determining Markov equivalence between mixed graphical models.
 
 tags:
   - Source Themes
@@ -30,8 +29,8 @@ featured: true
 
 links:
   - name: Custom Link
-    url: http://example.org
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+    url: https://proceedings.mlr.press/v124/hu20a.html
+url_pdf: https://arxiv.org/pdf/2007.02310.pdf
 url_code: '#'
 url_dataset: '#'
 url_poster: '#'
@@ -43,7 +42,7 @@ url_video: '#'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ''
   preview_only: false
 
