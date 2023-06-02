@@ -22,4 +22,4 @@ title: Ryan Carey
 first_name: Ryan
 email: ""
 ---
-Ryan is a final-year DPhil student, interested in AI safety and causal models. In AI safety, this includes the shutdown problem and specification-gaming. In causality, it includes causal models of agents, and marginalization and conditioning in causal models.
+'Ryan is a final-year DPhil student, interested in AI safety and causal models. In AI safety, this includes the shutdown problem and specification-gaming. In causality, it includes causal models of agents, and marginalization and conditioning in causal models.'
