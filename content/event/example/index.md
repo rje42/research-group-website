@@ -13,7 +13,7 @@ address:
   country: United States
 
 summary: 
-abstract: 'The premier conference on Causality and Uncertainty Quantification in statistics and machine learning is being held in Pittsburgh this year.  [Register here](https://www.auai.org/uai2023/register)!'
+abstract: 'The premier conference on Causality and Uncertainty Quantification in statistics and machine learning is being held in Pittsburgh this year.  [Register here](https://www.auai.org/uai2023/registration)!'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
