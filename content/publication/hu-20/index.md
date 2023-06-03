@@ -1,35 +1,38 @@
 ---
-title: 'Faster Algorithms for Markov Equivalence'
+title: Faster algorithms for Markov equivalence
 authors:
-  - Zhongyi Hu
-  - admin
-date: '2020-08-01T00:00:00Z'
+- Z. Hu
+- R. J. Evans
+date: '2020-01-01'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2023-06-03T16:53:35.893211Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['1']
+publication_types:
+- '1'
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of the 36th Conference on Uncertainty in Artificial Intelligence*
+publication: '*Proceedings of the 36th Conference on Uncertainty in Artificial Intelligence
+  (UAI-20)*'
 publication_short: In *UAI-20*
 
-abstract: 
+abstract: ''
 # Summary. An optional shortened abstract.
-summary: We provide faster algorithms for determining Markov equivalence between mixed graphical models.
+summary: We provide faster algorithms for determining Markov equivalence between mixed
+  graphical models.
 
 tags:
-  - Source Themes
-featured: true
+- Source Themes
+featured: false
 
 links:
-  - name: Paper
-    url: https://proceedings.mlr.press/v124/hu20a.html
+- name: Paper
+  url: https://proceedings.mlr.press/v124/hu20a.html
 url_pdf: https://arxiv.org/pdf/2007.02310.pdf
 url_code: '#'
 
@@ -46,7 +49,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - internal-project
+- internal-project
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

@@ -6,9 +6,9 @@ subtitle: ''
 summary: ''
 authors:
 - I. Shpitser
-- T.~S. Richardson
+- T. S. Richardson
 - R. J. Evans
-- J.~M. Robins
+- J. M. Robins
 tags: []
 categories: []
 date: '2013-01-01'
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-06-02T13:39:27.367144Z'
+publishDate: '2023-06-03T16:53:33.376905Z'
 publication_types:
 - '1'
 abstract: ''

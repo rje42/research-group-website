@@ -1,15 +1,16 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Graphs for margins of Bayesian networks
+title: Algebraic properties of HTC-identifiable graphs
 subtitle: ''
 summary: ''
 authors:
-- R. J. Evans
+- Bohao Yao
+- Robin Evans
 tags: []
 categories: []
-date: '2016-01-01'
-lastmod: 2023-06-02T14:39:30+01:00
+date: '2022-01-01'
+lastmod: 2023-06-03T17:53:36+01:00
 featured: false
 draft: false
 
@@ -27,12 +28,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-06-03T16:53:34.181675Z'
+publishDate: '2023-06-03T16:53:36.622996Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Scandinavian Journal of Statistics*'
-links:
-- name: arXiv
-  url: https://arxiv.org/abs/1408.1809
+publication: '*Algebraic Statistics*'
 ---

@@ -1,15 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Graphs for margins of Bayesian networks
+title: Dependency in DAG models with hidden variables
 subtitle: ''
 summary: ''
 authors:
-- R. J. Evans
+- Robin J Evans
 tags: []
 categories: []
-date: '2016-01-01'
-lastmod: 2023-06-02T14:39:30+01:00
+date: '2021-01-01'
+lastmod: 2023-06-03T17:53:36+01:00
 featured: false
 draft: false
 
@@ -27,12 +27,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-06-03T16:53:34.181675Z'
+publishDate: '2023-06-03T16:53:36.057605Z'
 publication_types:
-- '2'
+- '1'
 abstract: ''
-publication: '*Scandinavian Journal of Statistics*'
+publication: '*Uncertainty in Artificial Intelligence*'
 links:
 - name: arXiv
-  url: https://arxiv.org/abs/1408.1809
+  url: https://arxiv.org/abs/2106.07523
 ---
