@@ -33,7 +33,7 @@ user_groups:
 last_name: Evans
 role: Associate Professor of Statistics
 highlight_name: false
-title: Prof
+title: Robin J. Evans
 first_name: Robin
 email: ""
 ---
