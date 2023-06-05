@@ -29,7 +29,7 @@ education:
   courses: []
 superuser: true
 user_groups:
-  - Researchers
+  - Group Leader
 last_name: Evans
 role: Associate Professor of Statistics
 highlight_name: false

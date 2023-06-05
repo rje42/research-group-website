@@ -5,26 +5,23 @@ interests:
   - combining randomized and observational data
   - simulation
 social:
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/XiLinStats
 organizations:
   - name: University of Oxford
     url: ""
-  - name: St Cross College
+  - name: St Hugh's College
 education:
   courses: []
 superuser: true
 user_groups:
   - Research Students
 authors:
-  - xi_lin
-last_name: Lin
+  - jake_fawkes
+last_name: Fawkes
 role: Doctoral Student
 highlight_name: false
-title: Xi Lin
-first_name: Xi
+title: Jake Fawkes
+first_name: Jake
 email: ""
 ---
-Xi Lin is a second-year DPhil student, who research focuses on causal simulation 
-and combining randomized and observational data.
+Jake Fawkes is a third-year DPhil student, who research focuses on kernel methods
+for causal inference, and causal fairness.

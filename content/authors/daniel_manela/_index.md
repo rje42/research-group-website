@@ -7,24 +7,24 @@ interests:
 social:
   - icon: github
     icon_pack: fab
-    link: https://github.com/XiLinStats
+    link: https://github.com/12kleingordon34
 organizations:
   - name: University of Oxford
     url: ""
-  - name: St Cross College
+  - name: Mansfield College
 education:
   courses: []
 superuser: true
 user_groups:
   - Research Students
 authors:
-  - xi_lin
-last_name: Lin
+  - daniel_manela
+last_name: Manela
 role: Doctoral Student
 highlight_name: false
-title: Xi Lin
-first_name: Xi
+title: Daniel Manela
+first_name: Daniel
 email: ""
 ---
-Xi Lin is a second-year DPhil student, who research focuses on causal simulation 
+Dan Manela is a first-year DPhil student, who research focuses on causal simulation 
 and combining randomized and observational data.
