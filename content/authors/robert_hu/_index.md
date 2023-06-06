@@ -1,7 +1,7 @@
 ---
 bio: Causality connoisseur and RKHS enthusiast. Interested in non-parametric causal 
 modeling and large-scale ML. Working on the intersection between auction theory 
-and ML \@ Amazon Ads.
+and ML at Amazon Ads.
 interests:
   - kernel methods
   - causal inference
