@@ -25,7 +25,7 @@ education:
   courses: 
    - course: DPhil Statistics
      institution: University of Oxford
-     year: 2022
+     year: 2018-2022
    - course: MSc Applied Mathematics
      year: 2014-2016
      institution: KTH
