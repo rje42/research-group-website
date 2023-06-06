@@ -26,7 +26,13 @@ organizations:
     url: ""
   - name: Jesus College
 education:
-  courses: [PhD Statistics, University of Washington, 2011]
+  courses: 
+   - course: PhD Statistics
+     institution: University of Washington 
+     year: 2011
+   - course: MMath Mathematics
+     institution: University of Cambridge
+     year: 2007
 superuser: true
 user_groups:
   - Group Leader

@@ -22,7 +22,20 @@ organizations:
   - name: Amazon
     url: ""
 education:
-  courses: [DPhil Statistics, University of Oxford, 2022]
+  courses: 
+   - course: DPhil Statistics
+     institution: University of Oxford
+     year: 2022
+   - course: MSc Applied Mathematics
+     year: 2014-2016
+     institution: KTH
+   - course: BSc Business Economics
+     year: 2013-2017
+     institution: Stockholm School of Economics
+   - course: BSc Engineering Physics
+     year: 2011-2014
+     institution: KTH
+
 superuser: true
 user_groups:
   - Alumni

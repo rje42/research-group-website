@@ -13,7 +13,13 @@ organizations:
     url: ""
   - name: St Cross College
 education:
-  courses: []
+   courses:
+    - course: DPhil in Statistics
+      institution: University of Oxford
+      year: 2021-present
+    - course: Bachelor in Actuarial Studies (Honours)
+      institution: Australian National University
+      year: 2012-2016
 superuser: true
 user_groups:
   - Research Students
