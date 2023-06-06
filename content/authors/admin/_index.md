@@ -26,7 +26,7 @@ organizations:
     url: ""
   - name: Jesus College
 education:
-  courses: []
+  courses: [PhD Statistics, University of Washington, 2011]
 superuser: true
 user_groups:
   - Group Leader
