@@ -4,8 +4,8 @@ interests:
   - extreme value distributions
   - graphical models
 social:
-  - icon: linkedin-in
-    icon_pack: fas
+  - icon: linkedin
+    icon_pack: fab
     link: https://www.linkedin.com/in/adrien-hitz-b8353962/
   - icon: envelope
     icon_pack: fas
