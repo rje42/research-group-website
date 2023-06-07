@@ -4,15 +4,12 @@ interests:
   - extreme value distributions
   - graphical models
 social:
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/adrien-hitz-b8353962/
-  - icon: envelope
-    icon_pack: fas
-    link: mailto:ryan.carey@jesus.ox.ac.uk
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=0NiSKm8AAAAJ
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/adrien-hitz-b8353962/
 organizations:
   - name: Materialize.X
     url: "http://materializex.com/"

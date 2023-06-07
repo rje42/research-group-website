@@ -11,12 +11,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:ryan.carey@jesus.ox.ac.uk
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/ryancareyai
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=9U1CpcAAAAAJ
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/ryancareyai
 organizations:
   - name: University of Oxford
     url: ""
