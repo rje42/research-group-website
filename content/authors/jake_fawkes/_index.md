@@ -38,5 +38,4 @@ title: Jake Fawkes
 first_name: Jake
 email: "jake.fawkes@st-hughs.ox.ac.uk"
 ---
-Jake Fawkes is a third-year DPhil student, who research focuses on kernel methods
-for causal inference, and causal fairness.
+Jake Fawkes is a third year PhD student, researching under the co-supervision of Dino Sejdinovic. His primary focus lies at the intersection of causality and machine learning. This involves applications of causal inference within fair machine, using machine learning to measure and estimate causal effects, and improving the performance and robustness of predictive models by incorporating causality.
