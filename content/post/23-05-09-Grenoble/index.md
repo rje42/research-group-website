@@ -1,6 +1,7 @@
 ---
 title: Robin Evans and Xi Lin at FunCausal Workshop
 date: 2023-05-09
+authors: ["Robin J. Evans"]
 image:
   focal_point: 'top'
 ---

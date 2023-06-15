@@ -1,6 +1,7 @@
 ---
 title: Program Chair for UAI 2023
 date: 2022-09-01
+authors: ["Robin J. Evans"]
 image:
   focal_point: 'top'
 ---
