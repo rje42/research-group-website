@@ -5,9 +5,18 @@ interests:
   - combining randomized and observational data
   - simulation
 social:
+  - icon: arrow-up-right-from-square
+    icon_pack: fas
+    link: http://www.xilinstats.com
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:xi.lin@stats.ox.ac.uk
   - icon: github
     icon_pack: fab
     link: https://github.com/XiLinStats
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.co.uk/citations?user=j8O8DLAAAAAJ
 organizations:
   - name: University of Oxford
     url: ""
