@@ -1,6 +1,7 @@
 ---
 title: Vanessa Didelez and Robin Evans to give Causal Inference Module at APTS
 date: 2023-06-14
+author: admin
 image:
   focal_point: 'right'
 ---
