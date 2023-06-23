@@ -1,14 +1,9 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: Model selection and local geometry
-subtitle: ''
-summary: ''
+title: 'Model Selection and Local Geometry'
 authors:
   - admin
-tags: []
-categories: []
-date: '2020-01-01'
+date: '2020-01-01T00:00:00Z'
+doi: ''
 lastmod: 2023-06-02T14:39:34+01:00
 featured: false
 draft: false
@@ -42,7 +37,7 @@ url_pdf: http://arxiv.org/pdf/1801.08364
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ''
+  caption: 'Intersection of two surfaces'
   focal_point: 'TopRight'
   preview_only: false
 
@@ -61,3 +56,10 @@ links:
 - name: arXiv
   url: https://arxiv.org/abs/1801.08364
 ---
+
+{{% callout note %}}
+Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /callout %}}
+
+Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/).
+
