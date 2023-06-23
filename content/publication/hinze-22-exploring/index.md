@@ -1,18 +1,20 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Sparse nested Markov models with log-linear parameters
+title: Exploring the relationship between pain and self-harm thoughts and behaviours
+  in young people using network analysis
 subtitle: ''
 summary: ''
 authors:
-- Ilya Shpitser
-- Thomas S. Richardson
+- Verena Hinze
+- Tamsin Ford
 - Robin J. Evans
-- James M. Robins
+- Bergljot Gjelsvik
+- Catherine Crane
 tags: []
 categories: []
-date: '2013-01-01'
-lastmod: 2023-06-02T14:39:27+01:00
+date: '2022-01-01'
+lastmod: 2023-06-23T17:25:51+01:00
 featured: false
 draft: false
 
@@ -30,10 +32,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-06-23T16:33:32.094216Z'
+publishDate: '2023-06-23T16:33:35.217242Z'
 publication_types:
-- '1'
+- '2'
 abstract: ''
-publication: '*Proceedings of the 29th Conference on Uncertainty in Artificial Intelligence
-  (UAI-13)*'
+publication: '*Psychological Medicine*'
 ---

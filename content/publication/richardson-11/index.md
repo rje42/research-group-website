@@ -5,9 +5,9 @@ title: Transparent parameterizations of models for potential outcomes
 subtitle: ''
 summary: ''
 authors:
-- T. S. Richardson
-- R. J. Evans
-- J. M. Robins
+- Thomas S. Richardson
+- Robin J. Evans
+- James M. Robins
 tags: []
 categories: []
 date: '2011-01-01'
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-06-03T16:53:32.702735Z'
+publishDate: '2023-06-23T16:33:31.424750Z'
 publication_types:
 - '2'
 abstract: ''

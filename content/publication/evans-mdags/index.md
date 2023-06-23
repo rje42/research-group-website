@@ -5,7 +5,7 @@ title: Graphs for margins of Bayesian networks
 subtitle: ''
 summary: ''
 authors:
-- R. J. Evans
+- Robin J. Evans
 tags: []
 categories: []
 date: '2016-01-01'
@@ -27,7 +27,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-06-03T16:53:34.181675Z'
+publishDate: '2023-06-23T16:33:32.972171Z'
 publication_types:
 - '2'
 abstract: ''

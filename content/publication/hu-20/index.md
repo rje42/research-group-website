@@ -1,13 +1,13 @@
 ---
 title: Faster algorithms for Markov equivalence
 authors:
-- Z. Hu
-- R. J. Evans
+- Zhongyi Hu
+- Robin J. Evans
 date: '2020-01-01'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-06-03T16:53:35.893211Z'
+publishDate: '2023-06-23T16:33:34.679803Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -15,8 +15,6 @@ publishDate: '2023-06-03T16:53:35.893211Z'
 # 7 = Thesis; 8 = Patent
 publication_types:
 - '1'
-
-# Publication name and optional abbreviated publication name.
 publication: '*Proceedings of the 36th Conference on Uncertainty in Artificial Intelligence
   (UAI-20)*'
 publication_short: In *UAI-20*

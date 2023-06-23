@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Ilya Shpitser
-- R. J. Evans
+- Robin J. Evans
 - Thomas S Richardson
 tags: []
 categories: []
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-06-03T16:53:35.000424Z'
+publishDate: '2023-06-23T16:33:33.834393Z'
 publication_types:
 - '1'
 abstract: ''

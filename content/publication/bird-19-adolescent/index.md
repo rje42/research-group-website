@@ -5,10 +5,10 @@ title: 'Adolescent paranoia: Prevalence, structure, and causal mechanisms'
 subtitle: ''
 summary: ''
 authors:
-- Jessica C Bird
-- Robin Evans
+- Jessica C. Bird
+- Robin J. Evans
 - Felicity Waite
-- Bao S Loe
+- Bao S. Loe
 - Daniel Freeman
 tags: []
 categories: []
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-06-03T16:53:35.531229Z'
+publishDate: '2023-06-23T16:33:34.345837Z'
 publication_types:
 - '2'
 abstract: ''

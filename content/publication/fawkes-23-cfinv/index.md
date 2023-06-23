@@ -1,18 +1,16 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Sparse nested Markov models with log-linear parameters
+title: Results on Counterfactual Invariance
 subtitle: ''
 summary: ''
 authors:
-- Ilya Shpitser
-- Thomas S. Richardson
+- J. Fawkes
 - Robin J. Evans
-- James M. Robins
 tags: []
 categories: []
-date: '2013-01-01'
-lastmod: 2023-06-02T14:39:27+01:00
+date: '2023-01-01'
+lastmod: 2023-06-23T17:33:19+01:00
 featured: false
 draft: false
 
@@ -30,10 +28,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-06-23T16:33:32.094216Z'
+publishDate: '2023-06-23T16:33:36.366209Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*Proceedings of the 29th Conference on Uncertainty in Artificial Intelligence
-  (UAI-13)*'
+publication: '*The Second Workshop on Spurious Correlations, Invariance and Stability,
+  ICML*'
 ---

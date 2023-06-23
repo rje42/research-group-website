@@ -5,8 +5,8 @@ title: One-Component Regular Variation and Graphical Modeling of Extremes
 subtitle: ''
 summary: ''
 authors:
-- A. Hitz
-- R. J. Evans
+- Adrien Hitz
+- Robin J. Evans
 tags: []
 categories: []
 date: '2016-01-01'
@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-06-03T16:53:34.508375Z'
+publishDate: '2023-06-23T16:33:33.323039Z'
 publication_types:
 - '2'
 abstract: ''

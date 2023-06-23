@@ -5,10 +5,10 @@ title: Parameter and Structure Learning in Nested Markov Models
 subtitle: ''
 summary: ''
 authors:
-- I. Shpitser
+- Ilya Shpitser
 - T.S. Richardson
-- J. M. Robins
-- R. J. Evans
+- James M. Robins
+- Robin J. Evans
 tags: []
 categories: []
 date: '2012-01-01'
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-06-03T16:53:32.994479Z'
+publishDate: '2023-06-23T16:33:31.786761Z'
 publication_types:
 - '1'
 abstract: ''

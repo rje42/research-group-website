@@ -5,7 +5,7 @@ title: Latent-free equivalent mDAGs
 subtitle: ''
 summary: ''
 authors:
-- Robin J Evans
+- Robin J. Evans
 tags: []
 categories: []
 date: '2023-01-01'
@@ -27,7 +27,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-06-03T16:53:37.242080Z'
+publishDate: '2023-06-23T16:33:36.192332Z'
 publication_types:
 - '2'
 abstract: ''

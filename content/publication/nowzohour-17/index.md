@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Christopher Nowzohour
 - Marloes Maathuis
-- R. J. Evans
+- Robin J. Evans
 - Peter Bühlmann
 tags: []
 categories: []
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-06-03T16:53:34.655682Z'
+publishDate: '2023-06-23T16:33:33.477086Z'
 publication_types:
 - '2'
 abstract: ''

@@ -5,7 +5,7 @@ title: Dependency in DAG models with hidden variables
 subtitle: ''
 summary: ''
 authors:
-- Robin J Evans
+- Robin J. Evans
 tags: []
 categories: []
 date: '2021-01-01'
@@ -27,7 +27,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-06-03T16:53:36.057605Z'
+publishDate: '2023-06-23T16:33:34.859583Z'
 publication_types:
 - '1'
 abstract: ''

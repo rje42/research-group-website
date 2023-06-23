@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Jake Fawkes
-- Robin Evans
+- Robin J. Evans
 - Dino Sejdinovic
 tags: []
 categories: []
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-06-03T16:53:36.469194Z'
+publishDate: '2023-06-23T16:33:35.543087Z'
 publication_types:
 - '1'
 abstract: ''

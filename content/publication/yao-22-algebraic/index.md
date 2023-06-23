@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Bohao Yao
-- Robin Evans
+- Robin J. Evans
 tags: []
 categories: []
 date: '2022-01-01'
@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-06-03T16:53:36.622996Z'
+publishDate: '2023-06-23T16:33:35.707083Z'
 publication_types:
 - '2'
 abstract: ''

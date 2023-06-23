@@ -5,7 +5,7 @@ title: Parameterizing and simulating from causal models
 subtitle: ''
 summary: ''
 authors:
-- Robin J Evans
+- Robin J. Evans
 - Vanessa Didelez
 tags: []
 categories: []
@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-06-03T16:53:37.022062Z'
+publishDate: '2023-06-23T16:33:36.009418Z'
 publication_types:
 - '2'
 abstract: ''

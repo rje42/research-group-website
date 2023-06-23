@@ -5,8 +5,8 @@ title: Smooth, identifiable supermodels of discrete DAG models with latent varia
 subtitle: ''
 summary: ''
 authors:
-- R. J. Evans
-- T. S. Richardson
+- Robin J. Evans
+- Thomas S. Richardson
 tags: []
 categories: []
 date: '2019-01-01'
@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-06-03T16:53:35.192640Z'
+publishDate: '2023-06-23T16:33:33.990429Z'
 publication_types:
 - '2'
 abstract: ''
