@@ -5,7 +5,7 @@ title: Model selection and local geometry
 subtitle: ''
 summary: ''
 authors:
-- Robin J. Evans
+  - admin
 tags: []
 categories: []
 date: '2020-01-01'
@@ -13,12 +13,37 @@ lastmod: 2023-06-02T14:39:34+01:00
 featured: false
 draft: false
 
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ['2']
+
+# Publication name and optional abbreviated publication name.
+publication: '*Annals of Statistics, 48*(6)'
+publication_short: 'Ann. Statist.'
+
+abstract: We consider problems in model selection caused by the geometry of models close to their points of intersection.  In some cases---including common classes of causal or graphical models, as well as time series models---distinct models may nevertheless have identical tangent spaces.  This has two immediate consequences-first, in order to obtain constant power to reject one model in favour of another we need local alternative hypotheses that decrease to the null at a slower rate than the usual parametric root-n (typically we will require 4th-root-n or slower); in other words, to distinguish between the models we need large effect sizes or very large sample sizes.  Second, we show that under even weaker conditions on their tangent cones, models in these classes cannot be made simultaneously convex by a reparameterization.  This shows that Bayesian network models, amongst others, cannot be learned directly with a convex method similar to the graphical lasso. However, we are able to use our results to suggest methods for model selection that learn the tangent space directly, rather than the model itself.  In particular, we give a generic algorithm for learning Bayesian network models.
+
+# Summary. An optional shortened abstract.
+summary: Models do not always intersect in nice ways, and this has both statistical and computational consequences for model selection and inference.
+
+tags:
+  - publications
+featured: false
+
+# links:
+# - name: ""
+#   url: ""
+url_pdf: http://arxiv.org/pdf/1801.08364
+
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ''
-  focal_point: ''
+  focal_point: 'TopRight'
   preview_only: false
 
 # Projects (optional).
