@@ -74,3 +74,8 @@ cascade:
   - _target:
       path: /publication/**
     share: false
+  - _target:
+      path: /teaching/**
+    share: false
+uglyurls: true
+relativeurl: true
