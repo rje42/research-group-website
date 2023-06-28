@@ -15,6 +15,12 @@ sections:
         <br>
         
         Causal inference, graphical models and more!
+        
+        I am an Associate Professor of Statistics at the University of Oxford, 
+        and a Tutorial Fellow of Jesus College.  My research interests are in 
+        causal inference and search, graphical models, latent variables, and
+        algebraic statistics.  Applications area of interest are medicine, 
+        epidemiology, psychiatry, and international development.
   
   - block: collection
     content:
