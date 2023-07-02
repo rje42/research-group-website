@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Conditional distributions and log-linear parameters
+title: Smoothness of marginal log-linear parameterizations
 subtitle: ''
 summary: ''
 authors:
@@ -27,9 +27,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-06-23T16:33:32.800317Z'
+publishDate: '2023-07-02T12:25:17.820356Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*Electronic Journal of Statistics*'
+doi: 10.1214/15-EJS1009
 ---

@@ -1,16 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Two algorithms for fitting constrained marginal models
+title: Graphical Latent Structure Testing
 subtitle: ''
 summary: ''
 authors:
 - Robin J. Evans
-- Antonio Forcina
 tags: []
 categories: []
-date: '2013-01-01'
-lastmod: 2023-06-02T14:39:27+01:00
+date: '2015-01-01'
+lastmod: 2023-07-02T13:19:09+01:00
 featured: false
 draft: false
 
@@ -28,10 +27,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-07-02T12:25:16.730667Z'
+publishDate: '2023-07-02T12:25:17.517431Z'
 publication_types:
-- '2'
+- '6'
 abstract: ''
-publication: '*Computational Statistics and Data Analysis*'
-doi: 10.1016/j.csda.2013.02.001
+publication: '*Advances in Latent Variables: Methods, Models and Applications*'
+doi: 10.1007/10104_2014_10
 ---

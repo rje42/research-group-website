@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-06-23T16:33:33.990429Z'
+publishDate: '2023-07-02T12:25:18.972549Z'
 publication_types:
 - '2'
 abstract: ''
@@ -36,4 +36,5 @@ publication: '*Bernoulli*'
 links:
 - name: URL
   url: https://arxiv.org/abs/1511.06813
+doi: 10.3150/17-BEJ1005
 ---

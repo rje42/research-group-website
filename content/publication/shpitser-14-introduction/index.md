@@ -1,16 +1,18 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Two algorithms for fitting constrained marginal models
+title: Introduction to nested Markov models
 subtitle: ''
 summary: ''
 authors:
+- Ilya Shpitser
 - Robin J. Evans
-- Antonio Forcina
+- Thomas S. Richardson
+- James M. Robins
 tags: []
 categories: []
-date: '2013-01-01'
-lastmod: 2023-06-02T14:39:27+01:00
+date: '2014-01-01'
+lastmod: 2023-07-02T13:19:09+01:00
 featured: false
 draft: false
 
@@ -28,10 +30,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-07-02T12:25:16.730667Z'
+publishDate: '2023-07-02T12:25:17.372770Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Computational Statistics and Data Analysis*'
-doi: 10.1016/j.csda.2013.02.001
+publication: '*Behaviormetrika*'
+doi: 10.2333/bhmk.41.3
 ---
